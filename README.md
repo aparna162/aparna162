@@ -1,5 +1,4 @@
 <!-- Hero Banner -->
-
 <p align="center">
   <img src="Screenshot (289).png" alt="Aparna Mohanty - Full-Stack Developer & AI Learner" />
 </p>
@@ -15,8 +14,8 @@
 
 <p align="center">
   <a href="https://your-portfolio-link.com">Portfolio</a> •
-  <a href="mailto:yourmail@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a>
+  <a href="mailto:mohantyaparna41@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com">LinkedIn</a>
 </p>
 
 ---
@@ -28,17 +27,17 @@
     <td align="center">
       <h3>AI Experiences</h3>
       <p>Chatbots, assistants, and smart UIs that feel alive.</p>
-      <a href="https://github.com/your-user/your-ai-project"><b>View AI Projects →</b></a>
+      <a href="https://github.com/aparna162?tab=repositories"><b>View AI Projects →</b></a>
     </td>
     <td align="center">
       <h3>Full-Stack Products</h3>
       <p>End‑to‑end apps with auth, data, and clean APIs.</p>
-      <a href="https://github.com/your-user/your-fullstack-project"><b>View Full-Stack Apps →</b></a>
+      <a href="https://github.com/aparna162?tab=repositories"><b>View Full-Stack Apps →</b></a>
     </td>
     <td align="center">
-      <h3>Modern Dashboards</h3>
-      <p>Responsive dashboards with animations & dark UI.</p>
-      <a href="https://github.com/your-user/your-dashboard-project"><b>View Dashboards →</b></a>
+      <h3>Modern Interfaces</h3>
+      <p>Responsive UIs with animations, dark mode, and smooth UX.</p>
+      <a href="https://github.com/aparna162?tab=repositories"><b>View Interfaces →</b></a>
     </td>
   </tr>
 </table>
@@ -74,25 +73,25 @@
 
 | Project | Stack | What it shows |
 |--------|-------|----------------|
-| [HeritageConnect](https://github.com/your-user/heritageconnect) | React · Node · Firebase · Tailwind | AI museum assistant with ticket booking, offers, and modern card UI. |
-| [AI Chatbot](https://github.com/your-user/ai-chatbot) | React · API · Tailwind | Conversational UI with quick actions, typing animations, and context handling. |
-| [TasksTracker-TS](https://github.com/your-user/TasksTracker-TS) | React · TypeScript | Clean productivity dashboard with filters, state management, and dark mode. |
-| [Portfolio](https://github.com/your-user/portfolio) | React · Tailwind | Futuristic developer portfolio with animated hero and sections for skills & projects. |
+| [HeritageConnect](https://github.com/aparna162/HeritageConnect) | React · Node · Firebase · Tailwind | AI museum assistant with ticket booking, offers, and modern card UI. |
+| [AI Chatbot](https://github.com/aparna162) | React · API · Tailwind | Conversational UI with quick actions, typing animations, and context handling. |
+| [TasksTracker-TS](https://github.com/aparna162/TasksTracker-TS) | React · TypeScript | Clean productivity dashboard with filters, state management, and dark mode. |
+| [Portfolio](https://github.com/aparna162) | React · Tailwind | Futuristic developer portfolio with animated hero and sections for skills & projects. |
 
 ---
 
 ## 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aparna162&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aparna162&theme=radical" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparna162&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
@@ -101,5 +100,5 @@
 
 - 💬 Ask me about: React, Node.js, Firebase, Tailwind, and integrating AI into real products.  
 - 🚀 Open to: internships, junior roles, and collaborative projects.  
-- 📩 Reach out: **yourmail@example.com**
+- 📩 Reach out: **mohantyaparna41@gmail.com**
 

@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hi, I'm Aparna Mohanty 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer & AI Learner</b> building modern web apps, AI-powered experiences, and polished UIs.

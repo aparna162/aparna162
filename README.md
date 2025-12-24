@@ -84,26 +84,7 @@
 
 ## 📊 Activity & Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aparna162&show_icons=true&theme=tokyonight"
-    alt="GitHub stats for aparna162"
-/>
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=aparna162&theme=tokyonight&hide_border=true"
-    alt="GitHub streak for aparna162"
-/>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparna162&layout=compact&theme=tokyonight"
-    alt="Top languages for aparna162"
-/>
-</p>
+[![aparna GitHub stats](https://github-readme-stats.vercel.app/api?username=aparna162)](https://github.com/aparna162/github-readme-stats)
 
 
 ## 🤝 Let’s Build

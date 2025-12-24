@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Email-0A1A2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aparna-mohanty">
+  <a href="https://www.linkedin.com/in/aparna-mohanty-b59b70215/">
     <img src="https://img.shields.io/badge/LinkedIn-0A1A2F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>

@@ -79,14 +79,12 @@
 | [Portfolio](https://github.com/aparna162) | React · Tailwind | Futuristic developer portfolio with animated hero and sections for skills & projects. |
 
 ---
-
-
-
 ## 📊 Activity & Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=aparna162"/>
-
-
+[![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aparna162&show_icons=true&theme=radical)](https://github.com/aparna162/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aparna162&layout=compact&theme=radical)](https://github.com/aparna162/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=aparna162&theme=radical)](https://git.io/streak-stats)
+[![WakaTime](https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=aparna162&theme=radicalv=1)](https://github.com/aparna162/github-readme-stats)
 ## 🤝 Let’s Build
 
 - 💬 Ask me about: React, Node.js, Firebase, Tailwind, and integrating AI into real products.  
